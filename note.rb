@@ -1,4 +1,4 @@
-class Notes
+class Note
 
   attr_reader :title, :note, :done
   attr_accessor :done
